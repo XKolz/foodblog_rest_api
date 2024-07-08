@@ -7,7 +7,7 @@ files contents:
 config/
     appConst.js
     {
-      exports.MONGODB_URI = "mongodb+srv://dbconnectionURL/blog";
+      exports.MONGODB_URI = "mongodb+srv://dbconnectionURL/foodblog";
       exports.APP_KEY = "app_sceret_to_encrypt_jwt";
     }
 
